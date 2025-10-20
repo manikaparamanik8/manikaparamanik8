@@ -28,11 +28,6 @@ A safety web app designed to help women stay safe and connected during emergenci
 ## 📫 Connect with Me
 
 - 🌐 [Portfolio Website](https://manikaparamanik8.github.io/)
-- 💼www.linkedin.com/in/
-manika-paramanik-649bb1262
-
-- manikaparamanik8@gmail.com  
-
----
+- 💼www.linkedin.com/in/manikaparamanik8@gmail.com 
 
 ⭐ **Fun fact:** “I turn coffee into clean code ☕💻”
