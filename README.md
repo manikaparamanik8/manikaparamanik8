@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Manika Paramanik
 
-<!--
-**manikaparamanik8/manikaparamanik8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Frontend Developer | Web Designer | Learner**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I’m passionate about creating clean, responsive, and user-friendly websites using **HTML, CSS, JavaScript**, and **React**.  
+I love learning new technologies and building creative digital solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Skills & Technologies
+
+💻 HTML | CSS | JavaScript | React  
+🎨 Tailwind CSS | Bootstrap | Figma | Canva  
+🛠️ Git | GitHub | VS Code  
+
+---
+
+## 🚀 Featured Projects
+
+### 🌸 [Women Safety App](https://manikaparamanik8.github.io/Women-Safety-App/)
+A safety web app designed to help women stay safe and connected during emergencies.  
+**Tech:** HTML, CSS, JS  
+⭐ *Live Demo available on GitHub Pages.*
+
+---
+
+## 📫 Connect with Me
+
+- 🌐 [Portfolio Website](https://manikaparamanik8.github.io/)
+- 💼 [LinkedIn](#)  *(তোমার LinkedIn লিংক এখানে দাও)*  
+- ✉️ Email: *তোমার ইমেল লিখো*  
+
+---
+
+⭐ **Fun fact:** “I turn coffee into clean code ☕💻”
