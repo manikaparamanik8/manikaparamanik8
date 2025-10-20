@@ -28,8 +28,10 @@ A safety web app designed to help women stay safe and connected during emergenci
 ## 📫 Connect with Me
 
 - 🌐 [Portfolio Website](https://manikaparamanik8.github.io/)
-- 💼 [LinkedIn](#)  *(তোমার LinkedIn লিংক এখানে দাও)*  
-- ✉️ Email: *তোমার ইমেল লিখো*  
+- 💼www.linkedin.com/in/
+manika-paramanik-649bb1262
+
+- manikaparamanik8@gmail.com  
 
 ---
 
